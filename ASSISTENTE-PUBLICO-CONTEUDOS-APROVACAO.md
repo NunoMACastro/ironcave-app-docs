@@ -231,4 +231,4 @@ Para suporte, o visitante deve indicar a área funcional, a página onde estava,
 
 ## Perguntas frequentes associadas
 
-As perguntas e respostas completas estão no ficheiro CONTEUDOS-APROVACAO-FAQ-PUBLICA-CHAT.md.
+As perguntas e respostas completas estão no ficheiro FAQ-PUBLICA-CHAT-CONTEUDOS-APROVACAO.md.

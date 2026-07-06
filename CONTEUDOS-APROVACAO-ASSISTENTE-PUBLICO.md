@@ -13,12 +13,6 @@
 
 Este conteúdo serve para orientar respostas públicas sobre a Iron Cave. O assistente público deve explicar a plataforma em linguagem simples, encaminhar para contactos ou ajuda quando necessário e respeitar limites de privacidade e segurança.
 
-## Pontos a confirmar
-
-- Não incluir dados de contas, planos, histórico, mensagens privadas, avaliações, profissionais atribuídos, dados de saúde ou informação de suporte privada.
-- Não divulgar preços concretos, horários, datas de abertura, tempos de resposta garantidos ou disponibilidade de profissionais sem aprovação específica.
-- Qualquer funcionalidade futura que use dados da conta deve ter aprovação própria antes de ser ativada.
-
 # Conteúdo
 
 ## Resumo para aprovação

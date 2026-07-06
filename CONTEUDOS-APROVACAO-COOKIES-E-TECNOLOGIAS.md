@@ -13,11 +13,6 @@
 
 Este conteúdo cobre apenas cookies necessários, proteção da sessão, segurança e dados mínimos de funcionamento. Não assume cookies de marketing ou publicidade.
 
-## Pontos a confirmar
-
-- Confirmar juridicamente se este conteúdo deve ser uma página própria ou uma secção dentro da Política de Privacidade.
-- Adicionar cookies de marketing ou publicidade apenas se forem aprovados e configurados no produto.
-
 # Conteúdo
 
 ## Versão curta
